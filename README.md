@@ -1,4 +1,4 @@
-# Projeto 1 - A Jornada do Herói
+# Projeto 2 - Jokenpô
 
 <img style="align: center" src="http://res.cloudinary.com/assemany/image/upload/v1502152400/JavaScript_gdcbwg.png" alt="flexbox" width="1000"/>
 <hr>
@@ -25,11 +25,15 @@
 
 <p align="justify">
  
-O programa deve contar a história inicial (background), fazer as perguntas, e ao final, exibir o resultado como consequência de cada mensagem respondida.
+O Jokenpô é o popular jogo do "pedra, papel e tesoura". A premissa é simples, você tem 3 elementos para escolher, e cada um deles vence de um, e perde para o outro.
 
 ## Funcionalidades
 
-:heavy_check_mark: `Conceitos adquiridos 1:` Desenvolvimento do raciocínio lógico voltado a lógica de programação utilizando Javascript.
+:heavy_check_mark: `Funcionalidades 1:` Receber o elemento escolhido pelo usuário.
+###
+:heavy_check_mark: `Funcionalidades 2:` Escolher um elemento aleatório para o computador.
+###
+:heavy_check_mark: `Funcionalidades 3:` Comparar os dois elementos e declarar um vencedor.
 
 ## Ferramentas utilizadas
  
@@ -43,14 +47,14 @@ Antes de começar você vai precisar ter instalado em sua máquina as seguintes 
 [Git](https://git-scm.com/), [NodeJS](https://nodejs.org/en/).
 Além disto é bom ter um editor para trabahar com o código como [VScode](https://code.visualstudio.com/).
 
-Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto1-Mod1)
+Está tudo pronto agora... é só baixar o arquivo e executar. Você pode [acessar o código fonte do projeto](https://github.com/DevFernandoNunes/Projeto2-Mod1)
 
 ## Abrir e rodar o projeto
 
 ```bash
  
 #Clone este repositório
-$ git clone <https://github.com/DevFernandoNunes/Projeto1-Mod1.git>
+$ git clone <https://github.com/DevFernandoNunes/Projeto2-Mod1.git>
 
 #Abra o arquivo projeto1.js que está na raiz da pasta principal após clonar o repositório.
  
